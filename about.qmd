@@ -1,0 +1,30 @@
+---
+title: "Zoe Kapp"
+about:
+  template: jolla
+  image: jec-profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: linkedin.com/in/zoe-kapp-2a080824a
+    - icon: github
+      text: Github
+      href: https://github.com/zkapp88
+---
+
+Zoe Kapp is a Student majoring in Communication Design and minoring in Statistics at \[California State University, Monterey Bay\](http://csumb.edu/mathstat).
+
+## Education
+
+California State University Monterey Bay \| Seaside, CA
+B.S. in Communication Design \| 2022 - 2026
+
+## Experience
+
+The Lutrinae \| Illustrator\| August 2023 - May 2025
+
+The Lutrinae \| \| August 2025 - Present
+
+```{r}
+1 + 1
+```
